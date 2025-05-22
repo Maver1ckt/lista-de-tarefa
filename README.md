@@ -7,7 +7,7 @@ Um simples gerenciador de tarefas em Python para terminal.
 1. Execute o script principal:
 
 ```sh
-python main.py
+main.py
 ```
 
 2. Escolha uma das opções do menu:
